@@ -1,4 +1,4 @@
-# cspeak-framework
+# cspeak-framework [![Build Status](https://travis-ci.org/jscd/cspeak-framework.svg?branch=master)](https://travis-ci.org/jscd/cspeak-framework)
 
 This repo is a C++ framework for interacting with TeamSpeak's ServerQuery and ClientQuery interfaces.
 
